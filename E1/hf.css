@@ -1,0 +1,42 @@
+.logo-container {
+    float: left;
+    height: 100%;
+	padding: 20px 1300px 24px 20px;
+    background-color: #101010;
+	color: white;
+	font-size: 30px;
+	
+}
+
+ 
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 30px 20px 25px 20px;
+    background-color: #101010;
+	
+}
+ 
+.navigation a li{
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 20px;
+    color: white;
+	text-align: justify;
+}
+ 
+.navigation a:hover{
+    background-color: gray;
+    color: #101010;
+}
+	
+.picture {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+	font-size: 20px;
+}
+.title2 {
+    float:left; /* Выравнивание по левому краю */	
+	text-align: left;
+}
